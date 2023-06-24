@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-# Copyright (c) 2012, Vasilis Pappas <vpappas@cs.columbia.edu>
-# This file is part of Orp http://nsl.cs.columbia.edu/projects/orp
 
 import optparse
 import itertools
